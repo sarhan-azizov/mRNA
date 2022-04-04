@@ -2,7 +2,6 @@
   "version": 2,
   "projects": {
     "components": "libs/components",
-    "vdp7": "apps/vdp7",
-    "vdp7-e2e": "apps/vdp7-e2e"
+    "vdp7": "apps/vdp7"
   }
 }
