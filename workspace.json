@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "vdp7": "apps/vdp7",
+    "vdp7-e2e": "apps/vdp7-e2e"
+  }
+}
